@@ -1,0 +1,3 @@
+nun = []
+
+print(type(nun))
